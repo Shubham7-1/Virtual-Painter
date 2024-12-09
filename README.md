@@ -46,7 +46,7 @@ This project, **Virtual Painter**, allows users to draw and erase in real-time u
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/yourusername/virtual-painter.git
+    git clone https://github.com/Shubham7-1/Virtual-Painter.git
     cd virtual-painter
     ```
 
